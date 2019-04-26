@@ -31,6 +31,7 @@ Contrasty, if I change depthwise seperable convolution to fully convolution, it 
 
 ![image](https://github.com/zhucheng725/mobilenetv1_keras/blob/master/summary.png)<br>
 
+
 ![image](https://github.com/zhucheng725/mobilenetv1_keras/blob/master/training.png)<br>
 
 Because my PC own the GTX1060 3G and can not easy to train the vgg16, I simplify the network and get an 50% accuracy. That means we can not use this vgg16 to train 2 classes. You can train the easy network such as Cifar10 to test.<br>
