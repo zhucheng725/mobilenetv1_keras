@@ -9,10 +9,11 @@ I code it using Keras according to article and classify successfully using the K
 
 I use 4000 cats.jpg and 4000 dogs.jpg for training and use 3000 cats.jpg and 3000 dogs.jpg for testing. The index as follow:<br>
 
----train_cat_dog<br>
+>---train_cat_dog<br>
 >>>--cat<br>
 >>>--dog<br>
----validation_cat_dog<br>
+
+> ---validation_cat_dog<br>
 >>>--cat<br>
 >>>---dog<br>
     
